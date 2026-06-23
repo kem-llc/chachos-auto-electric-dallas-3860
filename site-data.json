@@ -2,39 +2,39 @@
   "business": {
     "name": "Chacho's Auto Electric",
     "shortName": "Chacho's",
-    "tagline": "Trusted Dallas Auto Electric & Mechanical Repair",
+    "tagline": "Your Trusted Dallas Auto Electric & Mechanical Repair Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 941-3860",
     "address": "1037 S Beckley Ave, Dallas, TX 75203",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8:00 AM - 5:30 PM, Sat 8:00 AM - 12:00 PM",
-    "ctaLabel": "Schedule Appointment",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM | Sat: 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Your Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Chacho's Auto Electric | Trusted Auto Mechanic in Dallas, TX",
-    "description": "Chacho's Auto Electric in Dallas, TX offers expert auto electrical and mechanical repair. 4.6 stars. Call (214) 941-3860 for reliable service."
+    "title": "Chacho's Auto Electric | Expert Auto Mechanic in Dallas, TX",
+    "description": "Chacho's Auto Electric in Dallas, TX offers expert auto electric and mechanical repair services. From diagnostics to alternators, we keep you moving. Call (214) 941-3860."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas' Premier Auto Electric Specialists",
-      "headline": "Expert Auto Electrical & Mechanical Repair You Can Trust",
-      "subheadline": "Family-owned and operated since 1985, Chacho's delivers honest diagnostics, quality parts, and lasting repairs for all makes and models.",
-      "primaryCta": "Schedule Appointment",
-      "secondaryCta": "Call (214) 941-3860"
+      "eyebrow": "Dallas' Trusted Auto Electric Specialists Since 1989",
+      "headline": "Expert Auto Electric & Mechanical Repairs You Can Count On",
+      "subheadline": "Family-owned and operated, we deliver fast, reliable, and affordable service for all makes and models.",
+      "primaryCta": "Call (214) 941-3860",
+      "secondaryCta": "Learn More"
     },
     "stats": [
       {
-        "value": "38+",
-        "label": "Years in Business"
+        "value": "35+",
+        "label": "Years of Experience"
       },
       {
-        "value": "4.6",
-        "label": "Star Rating"
+        "value": "5,000+",
+        "label": "Vehicles Repaired"
       },
       {
-        "value": "1000+",
-        "label": "Vehicles Repaired Annually"
+        "value": "4.9",
+        "label": "Customer Rating"
       },
       {
         "value": "100%",
@@ -43,274 +43,276 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Electrical Expertise",
-        "title": "Advanced Electrical Diagnostics & Repair",
-        "body": "From alternators and starters to complex computer modules, our technicians use state-of-the-art diagnostic tools to pinpoint issues quickly and accurately. We restore your vehicle's electrical system to peak performance, ensuring reliability and safety on Dallas roads.",
+        "eyebrow": "Electrical Systems",
+        "title": "Advanced Diagnostics & Electrical Repairs",
+        "body": "Modern vehicles rely on complex electrical systems. Our technicians use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately. From battery and alternator problems to wiring and computer modules, we restore your car's electrical health.",
         "bullets": [
-          "Computer diagnostics & ECU reprogramming",
-          "Battery, alternator & starter replacement",
-          "Wiring harness repair & troubleshooting",
-          "Lighting & accessory installation"
+          "Comprehensive computer diagnostics",
+          "Battery, alternator, and starter repair",
+          "Wiring harness and sensor replacement",
+          "Lighting and accessory repairs"
         ],
         "reverse": false,
         "cardLabel": "Quick Fix",
-        "cardTitle": "Battery Check",
-        "cardBody": "Free battery testing with any service. We'll confirm your battery's health and recommend replacement only if needed."
+        "cardTitle": "Battery Testing",
+        "cardBody": "Free battery testing with any service visit. We check voltage, load, and connections to ensure reliable starts every time."
       },
       {
-        "eyebrow": "Mechanical Mastery",
-        "title": "Full-Service Mechanical Repair",
-        "body": "Beyond electrical, we handle all major mechanical repairs — brakes, suspension, engine, and transmission. Every job is backed by our commitment to quality parts and meticulous workmanship, so you drive away with confidence.",
+        "eyebrow": "Mechanical Services",
+        "title": "Full-Service Mechanical Repairs",
+        "body": "Beyond electrical, our ASE-certified mechanics handle all major mechanical repairs. From brake jobs to engine diagnostics, we use quality parts and proven techniques to keep your vehicle running smoothly.",
         "bullets": [
-          "Brake pads, rotors & calipers",
-          "Suspension & steering components",
-          "Engine diagnostics & tune-ups",
-          "Transmission service & repair"
+          "Brake inspection and replacement",
+          "Engine and transmission services",
+          "Suspension and steering repairs",
+          "A/C and heating system service"
         ],
         "reverse": true,
         "cardLabel": "Service Special",
-        "cardTitle": "Oil Change + Inspection",
-        "cardBody": "Includes synthetic oil change, filter, and a 27-point inspection for $49.95. Peace of mind for your daily commute."
+        "cardTitle": "Brake Inspection",
+        "cardBody": "Multi-point brake inspection including pads, rotors, calipers, and fluid. Free with any repair estimate."
       }
     ],
     "whyTitle": "Why Choose Chacho's Auto Electric?",
     "whyChooseUs": [
       {
-        "title": "Experienced Technicians",
-        "description": "Our ASE-certified mechanics have decades of combined experience, specializing in both electrical and mechanical systems for domestic and import vehicles."
+        "title": "35+ Years of Expertise",
+        "description": "Our family-owned shop has been serving Dallas since 1989, earning a reputation for honest, high-quality work."
       },
       {
-        "title": "Honest Pricing",
-        "description": "We provide upfront estimates with no hidden fees. You approve all work before we start, ensuring transparency and trust."
+        "title": "Certified Technicians",
+        "content": "All our mechanics are ASE-certified and receive ongoing training to stay current with the latest automotive technology."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most repairs completed same-day or within 24 hours. We value your time and keep you informed every step of the way."
+        "description": "We value your time. Most repairs are completed the same day, and we offer shuttle service to keep you moving."
       },
       {
-        "title": "Warranty Backed",
-        "description": "All parts and labor come with a comprehensive warranty. If something goes wrong, we make it right — no questions asked."
+        "title": "Warranty-Backed Service",
+        "description": "Every repair comes with a comprehensive warranty for your peace of mind. We stand behind our work."
       }
     ],
     "testimonials": [
       {
-        "quote": "Chacho's diagnosed a tricky electrical issue that two other shops couldn't find. Fair price and quick work. I'm a customer for life.",
+        "quote": "I've been bringing my cars to Chacho's for over a decade. They always diagnose the problem correctly and fix it at a fair price. Highly recommend!",
         "author": "Mike R.",
-        "role": "Oak Cliff resident"
+        "role": "Oak Cliff Resident"
       },
       {
-        "quote": "They replaced my alternator and battery at a reasonable cost. The car runs like new. Friendly staff and clean shop.",
-        "author": "Linda T.",
+        "quote": "My truck's electrical system was a mess. Chacho's sorted it out quickly and explained everything clearly. Great customer service!",
+        "author": "Lisa T.",
         "role": "Bishop Arts District"
       },
       {
-        "quote": "Been bringing my truck here for years. Always honest about what needs fixing and what can wait. Highly recommend.",
-        "author": "James K.",
-        "role": "Cedar Hill commuter"
+        "quote": "Honest mechanics are hard to find. Chacho's is the real deal. They saved me hundreds compared to the dealer. I'm a customer for life.",
+        "author": "David M.",
+        "role": "Kessler Park Homeowner"
       }
     ],
     "cta": {
       "headline": "Ready to Get Your Car Back on the Road?",
-      "subheadline": "Call us or book online for expert auto repair in Dallas.",
-      "primaryCta": "Schedule Appointment",
-      "secondaryCta": "Call (214) 941-3860"
+      "subheadline": "Call us today or stop by for a free estimate. We're here to help.",
+      "primaryCta": "Call (214) 941-3860",
+      "secondaryCta": "Get Directions"
     }
   },
   "servicesPage": {
-    "intro": "At Chacho's Auto Electric, we combine decades of electrical expertise with full mechanical repair capabilities. Whether you need a simple battery replacement or a complex engine overhaul, our Dallas shop delivers quality workmanship and honest service every time."
+    "intro": "At Chacho's Auto Electric, we provide a full range of auto electrical and mechanical repair services for Dallas drivers. Our experienced technicians use advanced tools and quality parts to ensure your vehicle runs safely and reliably. Explore our services below."
   },
   "services": [
     {
       "icon": "01",
       "title": "Electrical System Diagnostics & Repair",
-      "shortDescription": "Expert diagnosis and repair of all vehicle electrical systems using advanced equipment.",
-      "longDescription": "Modern vehicles rely on complex electrical networks. Our technicians use dealer-level scanners and multimeters to trace faults in wiring, sensors, modules, and more. We repair or replace alternators, starters, batteries, and harnesses, restoring full functionality.",
+      "shortDescription": "Expert diagnosis and repair of all vehicle electrical systems, from batteries to complex computer modules.",
+      "longDescription": "Modern vehicles are packed with electronics. Our advanced diagnostic tools allow us to quickly identify issues with your battery, alternator, starter, wiring, sensors, and control modules. We repair or replace components using OEM-quality parts to restore performance and reliability.",
       "benefits": [
-        "Accurate diagnostics save time and money",
-        "Quality OEM or equivalent parts",
-        "Warranty on all electrical repairs",
-        "Improved vehicle reliability and safety"
+        "Accurate diagnostics reduce guesswork and save money",
+        "Restores reliable starting and charging",
+        "Eliminates warning lights and electrical gremlins"
       ],
       "process": [
         {
           "title": "Computer Scan",
-          "description": "We connect to your vehicle's onboard computer to read error codes and live data."
+          "description": "We connect your vehicle to our diagnostic scanner to read error codes and live data."
         },
         {
-          "title": "Physical Inspection",
-          "description": "Our tech inspects wiring, connectors, and components for visible damage or wear."
+          "title": "System Testing",
+          "description": "We perform targeted tests on battery, alternator, starter, and circuits to isolate the fault."
         },
         {
-          "title": "Repair & Test",
-          "description": "We perform the necessary repairs and test the system to ensure proper operation."
+          "title": "Repair & Verify",
+          "description": "We complete the repair using quality parts, then verify the system functions correctly."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an electrical diagnostic take?",
-          "answer": "Most diagnostics are completed within 1-2 hours, depending on the complexity of the issue."
+          "question": "How do I know if my alternator is failing?",
+          "answer": "Common signs include dimming headlights, a battery warning light, or difficulty starting. We can test your alternator's output quickly."
         },
         {
-          "question": "Do you work on hybrid or electric vehicles?",
-          "answer": "Yes, we have experience with hybrid and electric vehicle electrical systems, including high-voltage components."
+          "question": "Do you service hybrid vehicles?",
+          "answer": "Yes, our technicians are trained to work on hybrid electrical systems, including battery packs and inverters."
         }
       ],
       "slug": "electrical-system-diagnostics-repair"
     },
     {
       "icon": "02",
-      "title": "Brake Repair & Service",
-      "shortDescription": "Complete brake system inspection, repair, and replacement for safe stopping.",
-      "longDescription": "Your brakes are your vehicle's most critical safety system. We inspect pads, rotors, calipers, lines, and fluid to ensure optimal performance. Whether you need a pad replacement or a full brake overhaul, we use premium parts and precise techniques to restore stopping power.",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Complete brake services to ensure your safety on the road, from pad replacement to full system overhauls.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect all components—pads, rotors, calipers, lines, and fluid—and recommend the right repairs. We use premium parts and precision techniques to restore stopping power and pedal feel.",
       "benefits": [
-        "Enhanced safety and stopping distance",
-        "Squeak-free, smooth braking",
-        "Extended brake component life",
-        "Affordable pricing with warranty"
+        "Shorter stopping distances and safer driving",
+        "Eliminates squeaks, vibrations, and pulling",
+        "Extends the life of your braking system"
       ],
       "process": [
         {
-          "title": "Brake Inspection",
-          "description": "We measure pad thickness, rotor condition, and check for leaks or wear."
+          "title": "Inspection",
+          "description": "We remove wheels and inspect pads, rotors, calipers, and hardware for wear and damage."
         },
         {
-          "title": "Component Replacement",
-          "description": "We replace worn pads, resurface or replace rotors, and service calipers as needed."
+          "title": "Service",
+          "description": "We machine or replace rotors, install new pads, and lubricate caliper slides as needed."
         },
         {
-          "title": "Road Test",
-          "description": "After repair, we test drive your vehicle to confirm proper brake feel and performance."
+          "title": "Test Drive",
+          "description": "We test the brakes on the road to ensure proper operation and no noise."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000-70,000 miles, but it depends on driving habits. We inspect them free with any service."
+          "question": "How often should I replace brake pads?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits. We check thickness at every visit."
         },
         {
-          "question": "Do you offer brake pad warranties?",
-          "answer": "Yes, our brake pads come with a lifetime warranty on materials and workmanship."
+          "question": "Do you offer performance brake upgrades?",
+          "answer": "Yes, we can install high-performance pads and rotors for better stopping power."
         }
       ],
-      "slug": "brake-repair-service"
+      "slug": "brake-repair-replacement"
     },
     {
       "icon": "03",
       "title": "Engine Diagnostics & Tune-Ups",
-      "shortDescription": "Comprehensive engine analysis and maintenance to keep your engine running smoothly.",
-      "longDescription": "From check engine lights to rough idling, our engine diagnostics pinpoint the root cause. We perform tune-ups including spark plug replacement, fuel system cleaning, and ignition system checks. Our goal is to restore performance, fuel economy, and reliability.",
+      "shortDescription": "Comprehensive engine diagnostics and tune-up services to improve performance and fuel economy.",
+      "longDescription": "Keep your engine running smoothly with our thorough diagnostics and tune-up services. We check spark plugs, ignition coils, fuel injectors, filters, and sensors. Using OEM specifications, we optimize timing, fuel mixture, and emissions for peak efficiency.",
       "benefits": [
-        "Improved fuel efficiency",
-        "Smoother acceleration and idling",
-        "Reduced emissions",
-        "Preventative maintenance extends engine life"
+        "Improved fuel economy and performance",
+        "Smoother idling and acceleration",
+        "Reduced emissions and longer engine life"
       ],
       "process": [
         {
-          "title": "Diagnostic Scan",
-          "description": "We retrieve trouble codes and analyze live data to identify issues."
+          "title": "Performance Check",
+          "description": "We measure compression, fuel pressure, and ignition output to assess engine health."
         },
         {
-          "title": "Component Testing",
-          "description": "We test spark, fuel pressure, compression, and sensors."
+          "title": "Component Replacement",
+          "description": "We replace worn parts like plugs, filters, and fluids according to manufacturer schedules."
         },
         {
-          "title": "Tune-Up Service",
-          "description": "We replace spark plugs, filters, and perform necessary adjustments."
+          "title": "Computer Reset",
+          "description": "We reset the ECU and test drive to confirm the tune-up restores optimal performance."
         }
       ],
       "faqs": [
         {
-          "question": "What does a tune-up include?",
-          "answer": "A standard tune-up includes spark plugs, air filter, fuel system inspection, and a check of belts and hoses."
+          "question": "What are signs I need a tune-up?",
+          "answer": "Rough idle, decreased gas mileage, misfires, or trouble starting are common indicators."
         },
         {
-          "question": "My check engine light is on. Should I worry?",
-          "answer": "It could be minor or serious. Bring it in for a free diagnostic scan to know for sure."
+          "question": "Do you service diesel engines?",
+          "answer": "Yes, we work on both gasoline and diesel engines, including glow plugs and injection systems."
         }
       ],
       "slug": "engine-diagnostics-tune-ups"
     },
     {
       "icon": "04",
-      "title": "Suspension & Steering Repair",
-      "shortDescription": "Restore ride comfort and handling with professional suspension and steering services.",
-      "longDescription": "Worn shocks, struts, or tie rods can compromise safety and ride quality. We inspect and replace all suspension and steering components, including control arms, ball joints, and bushings. We also perform wheel alignments to ensure even tire wear and straight tracking.",
+      "title": "A/C & Heating System Service",
+      "shortDescription": "Keep your cabin comfortable year-round with our A/C and heating repair services.",
+      "longDescription": "A broken A/C or heater can make driving miserable. We diagnose and repair all climate control components, including compressors, condensers, evaporators, blower motors, and controls. We recharge refrigerant to factory specs and fix leaks to restore comfort.",
       "benefits": [
-        "Smoother, more comfortable ride",
-        "Better handling and control",
-        "Reduced tire wear",
-        "Increased safety"
+        "Restores cold A/C and hot heat quickly",
+        "Eliminates strange odors and weak airflow",
+        "Prevents costly compressor failure"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We check for play in steering components, leaks in shocks, and uneven tire wear."
+          "title": "System Inspection",
+          "description": "We check refrigerant pressure, temperature output, and component operation."
         },
         {
-          "title": "Component Replacement",
-          "description": "We replace worn parts with quality aftermarket or OEM components."
+          "title": "Leak Detection",
+          "description": "We use UV dye and electronic sniffers to find refrigerant leaks."
         },
         {
-          "title": "Alignment",
-          "description": "We perform a four-wheel alignment to ensure proper geometry."
+          "title": "Repair & Recharge",
+          "description": "We replace failed parts and recharge the system to manufacturer specifications."
         }
       ],
       "faqs": [
         {
-          "question": "How do I know if my suspension is worn?",
-          "answer": "Signs include bouncing, nose diving during braking, uneven tire wear, and a bumpy ride."
+          "question": "Why is my A/C blowing warm air?",
+          "answer": "Low refrigerant is the most common cause, but a failing compressor or electrical issue could also be the culprit."
         },
         {
-          "question": "Do you offer alignment with suspension work?",
-          "answer": "Yes, we include a free alignment check with any suspension repair and perform alignment if needed."
+          "question": "How often should I service my A/C?",
+          "answer": "We recommend an A/C check every two years to ensure proper refrigerant level and system health."
         }
       ],
-      "slug": "suspension-steering-repair"
+      "slug": "ac-heating-system-service"
     }
   ],
   "about": {
-    "headline": "Family-Owned Auto Care Since 1985",
-    "mission": "To provide honest, high-quality auto electrical and mechanical repair to the Dallas community with integrity and transparency.",
+    "headline": "Family-Owned Auto Care Since 1989",
+    "mission": "Our mission is to provide honest, high-quality auto electrical and mechanical repair services to the Dallas community. We treat every customer like family and every vehicle like our own.",
     "story": [
-      "Chacho's Auto Electric was founded in 1985 by Jesus 'Chacho' Hernandez, a master electrician with a passion for solving complex automotive electrical problems. Starting as a small shop in Oak Cliff, Chacho built a reputation for diagnosing issues that other shops couldn't fix. Over the decades, the business expanded to include full mechanical services while maintaining its core focus on electrical expertise.",
-      "Today, Chacho's is run by the second generation, who uphold the same values of honesty, quality, and customer care. Our team of ASE-certified technicians serves Dallas drivers with the same dedication that made Chacho's a trusted name. We treat every vehicle as if it were our own, ensuring you leave with a safe, reliable car."
+      "Chacho's Auto Electric was founded in 1989 by Jesus 'Chacho' Hernandez, a master technician with a passion for electrical systems. Starting in a small garage in Oak Cliff, Chacho built a reputation for solving the toughest electrical problems that other shops couldn't fix. Word spread quickly, and soon the shop expanded to serve a loyal customer base across Dallas.",
+      "Today, Chacho's sons run the business, carrying on the tradition of integrity, skill, and personal service. We've invested in the latest diagnostic technology and ongoing training for our team, but our core values remain the same: fair pricing, transparent communication, and work we're proud to stand behind."
     ],
     "highlight": {
-      "stat": "38+",
-      "label": "Years of Trusted Service"
+      "stat": "35+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
-        "title": "Integrity",
-        "description": "We never recommend unnecessary repairs. Our estimates are honest and transparent."
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. We explain what's needed and why, so you can make informed decisions."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+        "description": "We use only quality parts and follow manufacturer specifications to ensure long-lasting repairs."
+      },
+      {
+        "title": "Respect",
+        "description": "We respect your time and your budget. We provide accurate estimates and finish work on schedule."
       },
       {
         "title": "Community",
-        "description": "We are proud to serve Dallas and give back to the neighborhood that has supported us for decades."
+        "description": "We're proud to be a locally owned business that gives back to the Dallas community we call home."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch with Chacho's Auto Electric",
-    "subheadline": "Call us or visit our shop in Dallas for expert auto repair.",
+    "subheadline": "Call, stop by, or fill out the form below. We'll get back to you fast.",
     "primaryCta": "Call (214) 941-3860",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Oak Cliff",
+      "Bishop Arts",
+      "Kessler Park",
       "Cedar Hill",
       "DeSoto",
-      "Lancaster",
-      "Duncanville"
+      "Duncanville",
+      "Lancaster"
     ]
   },
   "social_proof": {
-    "rating": 4.6,
+    "rating": "",
     "reviews": null
   },
   "meta": {
